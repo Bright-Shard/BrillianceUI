@@ -1,0 +1,10 @@
+# Project place file
+BrillianceUI.rbxlx
+build.rbxmx
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock
+
+# VSCodium files
+.vscode/

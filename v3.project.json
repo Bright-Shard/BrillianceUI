@@ -1,0 +1,26 @@
+{
+    "name": "BrillianceUIv3",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "BrillianceUI": {
+                "$path": "v3"
+            }
+        },
+
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+
+                "BrillianceUIv3": {
+                    "$path": "dev"
+                }
+            }
+        }
+    }
+}
